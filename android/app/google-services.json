@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29343874327",
+    "project_id": "collage-management-syste-9dc73",
+    "storage_bucket": "collage-management-syste-9dc73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29343874327:android:d8f758267b4d3d53d90b52",
+        "android_client_info": {
+          "package_name": "com.collage.managementsystem.collagemanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29343874327-f909pp3cuo2bugtl1bisn8ge21jiq7gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Y946IyahApvLeHbf2Jpsc2kORZsJ5jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29343874327-f909pp3cuo2bugtl1bisn8ge21jiq7gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
