@@ -1,6 +1,11 @@
 # collagemanagementsystem
 
-A new Flutter project.
+This is android app in flutter for final year project the name of project is Collage Management System. It is fully developed by using Flutter and Firebase as server the utilities of firebase which are used are Fire Auth, FireRealtime DB, and Firebase Storage.
+
+This app has 3 panels for user:
+  1) is Admin panel
+  2) is TEaching staff panel
+  3) is Office Staff Panel, each panel has it's own functionalities.
 
 ## Getting Started
 
